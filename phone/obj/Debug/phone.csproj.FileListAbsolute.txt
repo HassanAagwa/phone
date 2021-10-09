@@ -1,0 +1,10 @@
+D:\app\phone\phone\bin\Debug\phone.exe.config
+D:\app\phone\phone\bin\Debug\phone.exe
+D:\app\phone\phone\bin\Debug\phone.pdb
+D:\app\phone\phone\obj\Debug\phone.csprojAssemblyReference.cache
+D:\app\phone\phone\obj\Debug\phone.Form1.resources
+D:\app\phone\phone\obj\Debug\phone.Properties.Resources.resources
+D:\app\phone\phone\obj\Debug\phone.csproj.GenerateResource.cache
+D:\app\phone\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+D:\app\phone\phone\obj\Debug\phone.exe
+D:\app\phone\phone\obj\Debug\phone.pdb
